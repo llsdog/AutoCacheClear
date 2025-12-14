@@ -1,4 +1,4 @@
-# AutoClearCache
+# AutoCacheClear
 Clear Cache(Linux)
 
 ```bash
